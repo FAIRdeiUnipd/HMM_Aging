@@ -22,11 +22,6 @@ HMM_res_path    = fullfile(Results_path,'HMM_6states_rep5_conf2');
 addpath(genpath(fullfile(Utilities_path)))
 addpath(genpath(fullfile(Code_path)))
 
-%da togliere poi
-addpath(genpath('/nfsd/nasfair/Users/Manuela/TOOLS/SOFTWARE/NIfTI_20140122'))
-addpath(genpath('/nfsd/nasfair/Users/Manuela/TOOLS/SOFTWARE/HMM-MAR-master'))
-addpath(genpath('/nfsd/nasfair/Users/Manuela/TOOLS/SOFTWARE/BCT/2019_03_03_BCT'));
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Load data
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
