@@ -1,3 +1,5 @@
+Repository for matlab data and codes to generate the figures from the paper "Unveil whole-brain dynamics in normal aging through Hidden Markov Models" by Moretto et al.
+
 Toolbox to download:
 
 HMM-MAR			-->	https://github.com/OHBA-analysis/HMM-MAR
