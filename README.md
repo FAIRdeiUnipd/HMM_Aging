@@ -1,4 +1,4 @@
-﻿Repository for matlab data and codes to generate the figures from the paper "Unveil whole-brain dynamics in normal aging through Hidden Markov Models" by Moretto et al.
+﻿Repository for matlab data and codes to generate the figures from the paper "Unveiling whole-brain dynamics in normal aging through Hidden Markov Models" by Moretto et al.
 
 Code:
 
